@@ -10,8 +10,6 @@
 @Desc    :   Python Codes for Project Extracting Stock Revenue using Python Libraries & WebScraping Methods
 '''
 
-# here put the import lib
-
 # pip install yfinance==0.1.67
 # pip install pandas==1.3.3
 # pip install requests==2.26.0
